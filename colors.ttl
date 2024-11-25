@@ -22,7 +22,7 @@ astimegoesby:84fd2
 astimegoesby:99188
     a skos:Concept;
     skos:narrower astimegoesby:84fd2;
-    skos:prefLabel "boredom"@en;
+    skos:prefLabel "boredom"@en, "langeweile"@de;
     skos:topConceptOf astimegoesby: .
 astimegoesby:c951a
     a skos:Concept;
