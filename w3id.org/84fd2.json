@@ -1,31 +1,27 @@
 {
-  "id": "https://example.org/colour/blue",
+  "id": "https://w3id.org/84fd2",
   "type": "Concept",
   "prefLabel": {
-    "en": "blue",
-    "de": "Blau"
+    "en": "waitingForTrain",
+    "de": "wartenAufDenZug"
+  },
+  "broader": {
+    "id": "https://w3id.org/99188",
+    "prefLabel": {
+      "en": "boredom"
+    }
   },
   "inScheme": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://w3id.org/",
       "title": {
-        "en": "Colour from Retinasilk",
-        "de": "Farbvokabular von Martin"
+        "en": "Time"
       }
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://example.org/colour/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://example.org/colour/",
-      "title": {
-        "en": "Colour from Retinasilk",
-        "de": "Farbvokabular von Martin"
-      }
+      "id": "https://w3id.org/"
     }
   ],
   "@context": {

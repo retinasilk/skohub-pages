@@ -1,38 +1,28 @@
 {
-  "id": "https://example.org/colour/violet",
+  "id": "https://w3id.org/c951a",
   "type": "Concept",
   "prefLabel": {
-    "en": "violet",
-    "de": "Violett"
-  },
-  "altLabel": {
-    "en": [
-      "purple"
-    ],
-    "de": [
-      "Lila"
-    ]
+    "en": "minute",
+    "de": "minute"
   },
   "inScheme": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://w3id.org/",
       "title": {
-        "en": "Colour from Retinasilk",
-        "de": "Farbvokabular von Martin"
+        "en": "Time"
       }
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://example.org/colour/"
+      "id": "https://w3id.org/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://w3id.org/",
       "title": {
-        "en": "Colour from Retinasilk",
-        "de": "Farbvokabular von Martin"
+        "en": "Time"
       }
     }
   ],
