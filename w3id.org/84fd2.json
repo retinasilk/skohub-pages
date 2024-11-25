@@ -8,7 +8,8 @@
   "broader": {
     "id": "https://w3id.org/99188",
     "prefLabel": {
-      "en": "boredom"
+      "en": "boredom",
+      "de": "langeweile"
     }
   },
   "inScheme": [
